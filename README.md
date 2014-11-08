@@ -1,5 +1,6 @@
 Ɛ> Lovelive <3
 ======================
+![demo](https://raw.githubusercontent.com/herringtondarkholme/lovelive/master/h.gif)
 
 It mocks Google Plus Valentine click effect.
 Makes heart love live, yeah.
